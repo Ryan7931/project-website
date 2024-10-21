@@ -1,0 +1,48 @@
+nav {
+    display: flex;
+    background-color: #1f9995;
+    width: 100%;
+    flex-direction: row;
+    padding: 30px;
+}
+
+body {
+    background: linear-gradient(to bottom,#1f9995,#b2e3e1);
+    background-attachment: fixed; /* Zorgt ervoor dat de achtergrond vast blijft */
+    height: 100vh; /* Zorgt ervoor dat de achtergrond de volledige hoogte van het venster beslaat */
+    margin: 0; /* Verwijdert de standaard marge */
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.Geboorteplaats {
+    padding-left: 77px;
+    padding-top: 188px;
+    font-size: 35px;
+}
+
+.Overjochem {
+    padding-left: 77px;
+    padding-top: 26px;
+    font-size: 25px;
+}
+
+.Jumbo {
+    height: 350px;
+    width: 350px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Struytsehoeck {
+    width: 570px;
+    height: 377px;
+    padding-left: 180px;
+    size: 20px;
+    top: 0%;
+}
+
+
